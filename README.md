@@ -54,5 +54,6 @@ The application follows **SOLID principles** and uses **dependency injection** t
 ## 📸 Screenshot
 
 Here’s an example of the application running:
-<img width="759" height="843" alt="image" src="https://github.com/user-attachments/assets/6cecab70-fc35-4d4b-9fd8-831ebfcbb69f" />
+<img width="771" height="842" alt="image" src="https://github.com/user-attachments/assets/0d3d0200-5276-4493-8624-c952606eec31" />
+
 
